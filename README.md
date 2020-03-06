@@ -1,2 +1,2 @@
-# Python_Plotly_Dashboards_sample-notes
-Python Plotly Dashboards sample notes
+# Python Plotly Dashboards Exercises
+Python Plotly Dashboards Exercises
